@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Schauspieler\Schauspieler\obj\Debug\Schauspieler.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Schauspieler\Schauspieler\obj\Debug\Schauspieler.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Schauspieler\Schauspieler\bin\Debug\Schauspieler.exe.config
+C:\Users\admin\source\repos\Schauspieler\Schauspieler\bin\Debug\Schauspieler.exe
+C:\Users\admin\source\repos\Schauspieler\Schauspieler\bin\Debug\Schauspieler.pdb
+C:\Users\admin\source\repos\Schauspieler\Schauspieler\obj\Debug\Schauspieler.exe
+C:\Users\admin\source\repos\Schauspieler\Schauspieler\obj\Debug\Schauspieler.pdb
